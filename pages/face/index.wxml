@@ -1,0 +1,8 @@
+
+<!--index.wxml-->
+
+<button class="button6" bindtap="upload_face" size="mini">上传本地人脸图片</button>
+
+<image class="face" src="{{tempFilePaths }}" mode="aspecFit" style="widthFix"/>
+
+<button class = "button7" bindtap="ok3">确认</button>

@@ -1,0 +1,33 @@
+page{
+  background-image: url(http://p.caigoubao.cc/627892/a7e44b9c3ce85c34ec3ffa627bd92603.jpeg);
+  background-size: 100% 110%;
+  background-repeat: no-repeat;
+}
+
+ .image2{
+  top: 50rpx;
+  margin-left: 48rpx;
+  width: 90%;
+  height: 790rpx;
+  float: left;
+  position: absolute;
+}
+
+.button2{
+  background-color: rgb(253, 174, 174);
+  border: 3px solid #868686;
+  color: rgb(87, 86, 86);
+  width:60%;
+  border-radius: 50rpx;
+  margin-top:850rpx;
+  margin-left: 150rpx;
+}
+.button3{
+  background-color: rgb(253, 174, 174);
+  border: 3px solid #868686;
+  color: rgb(87, 86, 86);
+  width:60%;
+  border-radius: 50rpx;
+  margin-top:20rpx;
+  margin-left: 150rpx;
+}

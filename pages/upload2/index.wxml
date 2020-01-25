@@ -1,0 +1,11 @@
+<!--pages/upload2/index.wxml-->
+
+<text class="choose_makeup">
+  请选择系统推荐妆容风格：
+</text>
+
+<button class = "makeup1" bindtap="makeup11" size="mini">欧美</button>
+<button class = "makeup2" bindtap="makeup22" size="mini">日韩</button>
+<button class = "makeup3" bindtap="makeup33" size="mini">暗黑</button>
+<button class = "makeup4" bindtap="makeup44" size="mini">古典</button>
+<button class = "makeup5" bindtap="makeup55" size="mini">...</button>

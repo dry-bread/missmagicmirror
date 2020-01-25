@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<image class="image1" src="http://p.caigoubao.cc/627892/%E5%9B%BE%E6%A0%87%E5%BE%85%E9%80%894%E5%8F%B7.png" mode="aspectFill">
+</image>
+
+<button class = "button1" bindtap="enter">进入</button>
+
+ <!--<loading hidden="{{loadingHidden}}">
+        加载中...
+    </loading>-->

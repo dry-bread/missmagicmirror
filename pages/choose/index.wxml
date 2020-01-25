@@ -1,0 +1,5 @@
+<image class="image2" src="http://p.caigoubao.cc/627892/c3af43866ef16d303db5a55051084818.png" mode="aspectFit">
+</image>
+
+<button class = "button2" bindtap="upload1" size="mini">上传本地妆容图片</button>
+<button class = "button3" bindtap="upload2" size="mini">选用推荐妆容图片</button>

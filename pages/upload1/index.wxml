@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class='container'>
+  上传本地图片
+</view> 
+
+<button class = "button4" bindtap="ok1">确认</button>
