@@ -1,8 +1,11 @@
 
 <!--index.wxml-->
 
-<button class="button6" bindtap="upload_face" size="mini">上传本地人脸图片</button>
+<button class="button6" bindtap="upload_face" size="mini">上传人脸图片</button>
 
-<image class="face" src="{{tempFilePaths }}" mode="aspecFit" style="widthFix"/>
+
+<image class="face" src="{{userface}}" mode="aspectFill" bindtap="previewImg">
+    <icon type='cancel' class="delete-btn" data-index="{{index}}" catchtap="deleteImg"></icon>
+ </image>
 
 <button class = "button7" bindtap="ok3">确认</button>

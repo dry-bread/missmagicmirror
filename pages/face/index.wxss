@@ -11,6 +11,10 @@ page{
   position: relative;
 }
 
+.weui-uploader{
+  padding: 10rpx;
+}
+
 .button6{
   background-color: rgb(253, 174, 174);
   border: 3px solid #868686;
@@ -27,4 +31,11 @@ page{
   width:30%;
   border-radius: 50rpx;
   margin-top:300rpx;
+}
+
+.pic {
+float:left;
+position:relative;
+margin-right:9px;
+margin-bottom:9px;
 }
